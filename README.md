@@ -22,8 +22,8 @@ A simple and complete Flutter app that allows users to count basketball points f
 
 Run the App
 ```bash
-git clone https://github.com/your-username/basketball-points-counter.git
-cd basketball-points-counter
+git clone https://github.com/AhmedEssammm/basketball-points-counter-app.git
+cd basketball-points-counter-app
 flutter pub get
 flutter run
 ```
