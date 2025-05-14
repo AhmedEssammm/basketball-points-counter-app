@@ -18,23 +18,21 @@ A simple and complete Flutter app that allows users to count basketball points f
 
 ![basketball_points_counter_app](https://github.com/user-attachments/assets/a7a0bab6-5a01-49d6-9b8c-658e3f60a4d7)
 
-🚀 Getting Started
-Prerequisites
-Flutter SDK installed (Get it here)
-
-A device or emulator to run the app
+## 🚀 Getting Started
 
 Run the App
-
+```bash
 git clone https://github.com/your-username/basketball-points-counter.git
 cd basketball-points-counter
 flutter pub get
 flutter run
+```
 
-📂 Project Structure
-
+## 📂 Project Structure
+```bash
 lib/
 ├── main.dart        # Entry point of the app
+```
 
-📌 Status
+## 📌 Status
 ✅ Completed — Functional and UI complete
